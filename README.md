@@ -1,5 +1,5 @@
 # glyphs
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/glyphs](https://github.com/shroysha/shroysha.github.io/tree/master/glyphs)
+> see code: [https://github.com/shroysha/glyphs](https://github.com/shroysha/glyphs)
 
 ## Subprojects 
 1. [glyphs-app-client](glyphs-app-client)
