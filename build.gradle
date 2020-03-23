@@ -1,0 +1,23 @@
+buildscript {
+apply from: "dev.shroysha.gradle"
+
+}
+
+plugins {
+id("dev.shroysha.plugin")
+id("ear")
+
+}
+
+repositories {
+mavenCentral()
+gradlePluginPortal()
+
+}
+
+dependencies {
+deploy project(path: ":glyphs:glyphs-app-client", configuration: "archives")
+deploy project(path: ":glyphs:glyphs-ejb", configuration: "archives")
+deploy project(path: ":glyphs:glyphs-war", configuration: "archives")
+
+}
