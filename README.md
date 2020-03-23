@@ -2,9 +2,9 @@
 > see code: [https://github.com/shroysha/glyphs](https://github.com/shroysha/glyphs)
 
 ## Subprojects 
-1. [glyphs-app-client](/glyphs-app-client)
-1. [glyphs-ejb](/glyphs-ejb)
-1. [glyphs-war](/glyphs-war)
+1. [glyphs-app-client](https://github.com/shroysha/glyphs-app-client)
+1. [glyphs-ejb](https://github.com/shroysha/glyphs-ejb)
+1. [glyphs-war](https://github.com/shroysha/glyphs-war)
 
 ## Description
 null
