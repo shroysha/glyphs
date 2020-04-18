@@ -1,0 +1,12 @@
+[submodule "glyphs-app-client"]
+	path = glyphs-app-client
+	url = https://github.com/shroysha/glyphs-app-client.git
+	branch = master
+[submodule "glyphs-ejb"]
+	path = glyphs-ejb
+	url = https://github.com/shroysha/glyphs-ejb.git
+	branch = master
+[submodule "glyphs-war"]
+	path = glyphs-war
+	url = https://github.com/shroysha/glyphs-war.git
+	branch = master
