@@ -6,7 +6,7 @@
 1. [glyphs-war](https://github.com/shroysha/glyphs-war)
 
 ## Description
-null
+Glyphs EAR
 
 ### Tags
 [EAR]
